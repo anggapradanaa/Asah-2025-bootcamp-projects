@@ -1,0 +1,13 @@
+pandas
+numpy
+google-play-scraper
+Sastrawi
+scikit-learn
+imbalanced-learn
+gensim
+tensorflow
+keras
+xgboost
+matplotlib
+seaborn
+joblib
